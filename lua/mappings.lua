@@ -1,4 +1,4 @@
-require "nvchad.mappings"
+require "kawaii.mappings"
 
 -- add yours here
 

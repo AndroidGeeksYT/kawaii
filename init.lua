@@ -16,10 +16,10 @@ local lazy_config = require "configs.lazy"
 -- load plugins
 require("lazy").setup({
   {
-    "NvChad/NvChad",
+    "AndroidGeeksYT/kawaii-plugin",
     lazy = false,
-    branch = "v2.5",
-    import = "nvchad.plugins",
+    branch = "kawaii",
+    import = "kawaii.plugins",
   },
 
   { import = "plugins" },

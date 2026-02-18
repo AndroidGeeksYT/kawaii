@@ -1,4 +1,4 @@
-require "nvchad.options"
+require "kawaii.options"
 
 -- add yours here!
 
