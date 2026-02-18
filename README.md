@@ -1,7 +1,7 @@
-**This repo is supposed to be used as config by NvChad users!**
+**This repo is supposed to be used as config by kawaii users!**
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
+- The kawaii-plugin repo (AndroidGeeksYT/kawaii-plugin) is used as a main repo.
+- So you just import its modules , like `require "kawaii.options" , require "kawaii.mappings"`
 - So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
 
 # Credits
