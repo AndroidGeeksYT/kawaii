@@ -1,42 +1,41 @@
 <div align="center" markdown="1">
-   <sup>Special thanks to:</sup>
-   <br>
-   <br>
-   <a href="https://go.warp.dev/NvChad">
-      <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2">
-   </a>
 
-### [Warp, built for coding with multiple AI agents](https://go.warp.dev/NvChad)
-[Available for MacOS, Linux, & Windows](https://go.warp.dev/NvChad) 
+<p align="center">
+  <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true" width="400" alt="Shiroko">
+  </p>
+
+[Available for Android andLinux] 
 
 </div>
 
  <br/>
 
-<h1 align="center">NvChad</h1>
+ <h1 align="center">kawaii</h1>
 
-<div align="center">
-	<a href="https://nvchad.com/">Home</a>
-  <span> • </span>
-    	<a href="https://nvchad.com/docs/quickstart/install">Install</a>
-  <span> • </span>
-       	<a href="https://nvchad.com/docs/contribute">Contribute</a>
-  <span> • </span>
-	<a href="https://github.com/NvChad/NvChad#gift_heart-support">Support</a>
-  <span> • </span>
-        <a href="https://nvchad.com/docs/features">Features</a>
-  <p></p>
-</div> 
+ <!--
+ <div align="center">
+ <a href="https://nvchad.com/">Home</a>
+ <span> • </span>
+ <a href="https://nvchad.com/docs/quickstart/install">Install</a>
+ <span> • </span>
+ <a href="https://nvchad.com/docs/contribute">Contribute</a>
+ <span> • </span>
+ <a href="https://github.com/NvChad/NvChad#gift_heart-support">Support</a>
+ <span> • </span>
+ <a href="https://nvchad.com/docs/features">Features</a>
+ <p></p>
+ </div> 
 
-<div align="center">
- 
-[![Neovim Minimum Version](https://img.shields.io/badge/Neovim-0.11-blueviolet.svg?style=flat-square&logo=Neovim&color=90E59A&logoColor=white)](https://github.com/neovim/neovim/releases/tag/stable)
-[![GitHub Issues](https://img.shields.io/github/issues/NvChad/NvChad.svg?style=flat-square&label=Issues&color=d77982)](https://github.com/NvChad/NvChad/issues)
-[![Discord](https://img.shields.io/discord/869557815780470834?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/gADmkJb9Fb)
-[![Matrix](https://img.shields.io/badge/Matrix-40aa8b.svg?style=flat-square&logo=Matrix&logoColor=white)](https://matrix.to/#/#nvchad:matrix.org)
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DE_WM)
+ <div align="center">
 
-  </div>
+ [![Neovim Minimum Version](https://img.shields.io/badge/Neovim-0.11-blueviolet.svg?style=flat-square&logo=Neovim&color=90E59A&logoColor=white)](https://github.com/neovim/neovim/releases/tag/stable)
+ [![GitHub Issues](https://img.shields.io/github/issues/NvChad/NvChad.svg?style=flat-square&label=Issues&color=d77982)](https://github.com/NvChad/NvChad/issues)
+ [![Discord](https://img.shields.io/discord/869557815780470834?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/gADmkJb9Fb)
+ [![Matrix](https://img.shields.io/badge/Matrix-40aa8b.svg?style=flat-square&logo=Matrix&logoColor=white)](https://matrix.to/#/#nvchad:matrix.org)
+ [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DE_WM)
+
+ </div>
+ -->
 
 ## Showcase
 
