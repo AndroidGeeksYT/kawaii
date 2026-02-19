@@ -1,7 +1,7 @@
 **This repo is supposed to be used as config by kawaii users!**
 
 <p align="center">
-  <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif" width="400" alt="Shiroko">
+<img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true" width="400" alt="Shiroko">
 </p>
 
 ---
