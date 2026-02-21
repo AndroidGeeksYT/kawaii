@@ -16,3 +16,7 @@ require "kawaii.options"
 
 -- Wrap
 -- o.wrap = false
+
+-- Column
+-- o.signcolumn = "no"
+
