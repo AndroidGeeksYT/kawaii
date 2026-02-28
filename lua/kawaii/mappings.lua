@@ -29,7 +29,7 @@ end, { desc = "general format file" })
 map("n", "<leader>ds", vim.diagnostic.setloclist, { desc = "LSP diagnostic loclist" })
 
 -- tabufline
-if require("nvconfig").ui.tabufline.enabled then
+if require("kawaii").ui.tabufline.enabled then
   map("n", "<leader>b", "<cmd>enew<CR>", { desc = "buffer new" })
 
   map("n", "<tab>", function()
