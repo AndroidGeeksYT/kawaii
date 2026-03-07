@@ -162,8 +162,5 @@ return {
     opts = function()
       return require "kawaii.configs.treesitter"
     end,
-    config = function(_, opts)
-      require("nvim-treesitter.configs").setup(opts)
-    end,
   },
 }
