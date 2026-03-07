@@ -1,6 +1,6 @@
 dofile(vim.g.base46_cache .. "nvimtree")
 
-return {
+local options = {
   filters = { dotfiles = false },
   disable_netrw = true,
   hijack_cursor = true,
@@ -32,3 +32,5 @@ return {
     },
   },
 }
+
+return options

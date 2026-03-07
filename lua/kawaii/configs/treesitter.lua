@@ -22,6 +22,8 @@ local options = {
     use_languagetree = true,
   },
 
+  auto_install = true,
+
   indent = { enable = true },
 }
 

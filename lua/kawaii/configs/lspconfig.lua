@@ -17,7 +17,7 @@ M.on_attach = function(_, bufnr)
   end, opts "List workspace folders")
 
   map("n", "<leader>D", vim.lsp.buf.type_definition, opts "Go to type definition")
-  map("n", "<leader>ra", require "nvchad.lsp.renamer", opts "NvRenamer")
+  map("n", "<leader>ra", require "kawaii.lsp.renamer", opts "KwRenamer")
 end
 
 -- disable semanticTokens
@@ -55,7 +55,7 @@ M.capabilities.textDocument.completion.completionItem = {
 
 M.defaults = function()
   dofile(vim.g.base46_cache .. "lsp")
-  require("nvchad.lsp").diagnostic_config()
+  require("kawaii.lsp").diagnostic_config()
 
   vim.api.nvim_create_autocmd("LspAttach", {
     callback = function(args)
@@ -69,7 +69,7 @@ M.defaults = function()
       workspace = {
         library = {
           vim.fn.expand "$VIMRUNTIME/lua",
-          vim.fn.stdpath "data" .. "/lazy/ui/nvchad_types",
+          vim.fn.stdpath "data" .. "/lazy/ui/kawaii_types",
           vim.fn.stdpath "data" .. "/lazy/lazy.nvim/lua/lazy",
           "${3rd}/luv/library",
         },

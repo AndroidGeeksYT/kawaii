@@ -54,4 +54,4 @@ local options = {
   },
 }
 
-return vim.tbl_deep_extend("force", options, require "nvchad.cmp")
+return vim.tbl_deep_extend("force", options, require "kawaii.cmp")
