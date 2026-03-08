@@ -1,22 +1,4 @@
-<div align="center">
-  <p>
-    <img
-      src="https://img.shields.io/badge/Maintained%3F-YES-blue?style=for-the-badge"
-    />
-    <img
-      src="https://img.shields.io/github/license/AndroidGeeksYT/kawaii?color=blue&style=for-the-badge"
-    />
-    <img
-      src="https://img.shields.io/github/stars/AndroidGeeksYT/kawaii?color=blue&style=for-the-badge"
-    />
-    <img
-      src="https://img.shields.io/github/forks/AndroidGeeksYT/kawaii?color=blue&style=for-the-badge"
-    />
-    <img
-      src="https://img.shields.io/github/issues/AndroidGeeksYT/kawaii?color=blue&style=for-the-badge"
-    />
-  </p>
-
+<div>
   <p>
     <img
       src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true"
@@ -26,7 +8,48 @@
   </p>
 </div>
 
-<br />
+<hr />
+
+<div align="center">
+  <p>
+    <a href="https://github.com/AndroidGeeksYT/kawaii/releases/latest">
+      <img
+        alt="Latest release"
+        src="https://img.shields.io/github/v/releases/AndroidGeeksYT/kawaii?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver"
+      />
+    </a>
+    <a href="https://github.com/AndroidGeeksYT/kawaii/pulse">
+      <img
+        alt="Last commit"
+        src="https://img.shields.io/github/last-commit/AndroidGeeksYT/kawaii?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"
+      />
+    </a>
+    <a href="https://github.com/AndroidGeeksYT/kawaii/blob/main/LICENSE">
+      <img
+        alt="License"
+        src="https://img.shields.io/github/license/AndroidGeeksYT/kawaii?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41"
+      />
+    </a>
+    <a href="https://github.com/AndroidGeeksYT/kawaii/stargazers">
+      <img
+        alt="Stars"
+        src="https://img.shields.io/github/stars/AndroidGeeksYT/kawaii?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41"
+      />
+    </a>
+    <a href="https://github.com/AndroidGeeksYT/kawaii/issues">
+      <img
+        alt="Issues"
+        src="https://img.shields.io/github/issues/AndroidGeeksYT/kawaii?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"
+      />
+    </a>
+    <a href="https://github.com/AndroidGeeksYT/kawaii">
+      <img
+        alt="Repo Size"
+        src="https://img.shields.io/github/repo-size/AndroidGeeksYT/kawaii?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41"
+      />
+    </a>
+  </p>
+</div>
 
 <h1 align="center">Kawaii</h1>
 
@@ -43,12 +66,8 @@
   <p></p>
 </div>
 
-(Note: Kawaii is still using NvChad's image and videos preview's)
-
 ## Showcase
 
-![kawaiidash](https://github.com/user-attachments/assets/0c7e2c8f-8940-42ea-9c18-7456768d2d05)
-<img src="https://nvchad.com/banner.webp">
 <img src="https://nvchad.com/screenshots/onedark.webp">
 <img src="https://nvchad.com/screenshots/rxyhn1.webp">
 
@@ -107,8 +126,6 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 <h3> Modern Theme Picker </h3>
 <kbd> <img src="https://github.com/user-attachments/assets/897e46f1-9ae2-4cc2-8fa2-64eff40a90dd" /> </kbd>
 </details>
-
-<!--For detailed info list, check [features page](https://nvchad.com/docs/features)-->
 
 ## Plugins list
 
