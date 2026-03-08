@@ -56,8 +56,6 @@
 <div align="center">
   <a href="https://github.com/AndroidGeeksYT/kawaii">Home</a>
   <span> • </span>
-  <a href="https://github.com/AndroidGeeksYT/kawaii-starter">Install</a>
-  <span> • </span>
   <a href="https://github.com/AndroidGeeksYT/kawaii-ui">Kawaii UI</a>
   <span> • </span>
   <a href="https://github.com/AndroidGeeksYT/kawaii-base">Kawaii Base</a>
@@ -79,7 +77,7 @@
 
 - Kawaii is supposed to be used with its [starter config](https://github.com/AndroidGeeksYT/kawaii-starter), so kawaii main repo ( this repo ) can be imported as a plugin via lazy's import feature and then you can easily use this repo's modules like autocmds etc.
 
-## ⚙️ Requirements
+## Requirements
 
 - Neovim `0.9+`
 - `git`
