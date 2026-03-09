@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <p>
     <img
       src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true"
