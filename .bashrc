@@ -8,3 +8,6 @@ alias la="ls -a"
 alias ll="ls -la"
 alias update="pkg update && pkg upgrade"
 alias clean="pkg clean && apt autoremove"
+
+# fastfetch
+fastfetch
