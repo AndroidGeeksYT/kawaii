@@ -5,3 +5,4 @@ PS1='\[\e[1;32m\][geek@termux]\[\e[0m\]~\$ '
 alias vi="nvim"
 alias ls="lsd"
 alias la="ls -a"
+alias ll="ls -la"
