@@ -11,3 +11,6 @@ alias clean="pkg clean && apt autoremove"
 
 # fastfetch
 fastfetch
+
+# delete history
+rm .bash_history
