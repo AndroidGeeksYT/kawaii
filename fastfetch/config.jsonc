@@ -18,7 +18,6 @@
     "font",
     "cursor",
     "terminal",
-    "terminalfont",
     "cpu",
     "memory",
     "swap",
