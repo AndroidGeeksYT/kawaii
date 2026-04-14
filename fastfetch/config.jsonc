@@ -20,7 +20,6 @@
     "terminal",
     "terminalfont",
     "cpu",
-    "gpu",
     "memory",
     "swap",
     "battery",
