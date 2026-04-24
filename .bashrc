@@ -1,5 +1,5 @@
 # shell prompt
-PS1='\[\e[1;32m\][geek@archlinux]\[\e[0m\]\w\$ '
+PS1='\[\e[1;32m\][geek@archlinux]\[\e[0m\]\W\$ '
 
 # alias
 alias vi="nvim"
