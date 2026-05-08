@@ -114,3 +114,6 @@ fi
 
 # change umask to make directory sharing easier
 umask 0002
+
+# fastfetch
+fastfetch
