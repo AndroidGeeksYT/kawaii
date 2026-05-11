@@ -11,3 +11,6 @@ o.expandtab = false
 
 -- wrap
 o.wrap = false
+
+-- eob (end of buffer)
+opt.fillchars = { eob = " " }
