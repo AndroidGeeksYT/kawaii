@@ -1,4 +1,5 @@
 local vim.o
+local opt = vim.opt
 
 -- numbers
 o.number = true
