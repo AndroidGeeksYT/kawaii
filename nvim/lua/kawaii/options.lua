@@ -14,3 +14,6 @@ o.wrap = false
 
 -- eob (end of buffer)
 opt.fillchars = { eob = " " }
+
+-- disable nvim intro
+opt.shortmess:append "sI"
